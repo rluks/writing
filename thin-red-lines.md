@@ -12,7 +12,7 @@ Jake’s voice is shaking as he speaks, “I… I see something I shouldn’t. S
 
 Peter, concerned, asks, “What do you mean?”
 
-Jake, “There is something… something behind. Something behind!” He almost screams the last word.
+Jake, “There is something… something behind. Something behind it all!” He almost screams the last word.
 
 Meanwhile, birds on a tree branch outside chirp joyfully.
 
@@ -68,7 +68,7 @@ In a fake innocent voice, he asks, “What is it look like I’m doing?” Jake�
 
 “You have a gun?!”, Peter watches in horror as Jake raises the gun and points it at him.
 
-Does Jake want to kill him?! Why? What’s happening?! He frantically looks for a way out. There is nowhere to go. He can’t move. He begs for his life.
+Why would Jake want to kill him?! It must be joke! What’s happening?! He frantically looks for a way out. There is nowhere to go. He can’t move. He begs for his life.
 
 Jake is unshaken by Peter’s pleas for mercy. An ugly misshapen smile on his face widens, “Thin red lines want me to.”
 
