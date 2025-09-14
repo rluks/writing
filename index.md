@@ -1,4 +1,4 @@
 # Writing
 
-- [Invader](invader/story.md)
-- [Pressure](pressure/story.md)
+- [Invader](invader.md)
+- [Pressure](pressure.md)
