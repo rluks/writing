@@ -1,6 +1,5 @@
 - [Invader](wr/invader.md)
 - [Pressure](wr/pressure.md)
 - [Nebula 7](wr/nebula-7.md)
-- [Trapped](wr/trapped.md) 
 - [Thin Red Lines](wr/thin-red-lines.md)
 - [Trapped](wr/trapped.md)
