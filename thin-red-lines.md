@@ -2,6 +2,8 @@
 
 *I came up with this short story around 2019. It’s inspired by King, Lovecraft, and Bruce Sterling’s Beyond the Coming Age of Networked Matter.*
 
+---
+
 Jake’s voice is barely audible, “Thin. Red. Lines.”
 
 Peter isn’t sure whether Jake is speaking to him or to himself, “What’s that?”
