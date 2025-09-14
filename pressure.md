@@ -1,6 +1,6 @@
 # Pressure
 
-This piece was inspired by The Invincible, and the idea of human intellect clashing with forces devoid of intelligence. Similar concept is explored in the Swarm (novelette / episode).
+*This piece was inspired by [The Invincible](https://en.wikipedia.org/wiki/The_Invincible), and the idea of human intellect clashing with forces devoid of intelligence. Similar concept is explored in the Swarm ([novelette](https://en.wikipedia.org/wiki/Swarm_(novelette)) / [episode](https://lovedeathrobots.fandom.com/wiki/Swarm)).*
 
 A dimensional portal is about to open—a monumental success after years of relentless research. Humanity will no longer be confined to this reality alone. But who will be the first to step through? And what’s it going to be like on the other side?
 
