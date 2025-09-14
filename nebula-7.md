@@ -2,6 +2,8 @@
 
 *Faster-than-light travel is a fairy tale. It takes a massive amount of effort to accelerate objects with mass close to the speed of light (denoted as 'c').*
 
+---
+
 Worn out poster on the wall is peeling off. It’s made out of an actual paper. I study it curiously. The letters are faded out but still legible.
 
 NEBULA 7.
