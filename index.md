@@ -3,3 +3,4 @@ Writing short fiction is a creative outlet for me.
 - [Pressure](pressure.md)
 - [Nebula 7](nebula-7.md)
 - [Trapped](trapped.md) 
+- [Thin Red Lines](thin-red-lines.md)
