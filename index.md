@@ -1,5 +1,7 @@
-- [Invader](story/invader.md)
-- [Pressure](story/pressure.md)
-- [Nebula 7](story/nebula-7.md)
-- [Thin Red Lines](story/thin-red-lines.md)
-- [Trapped](story/trapped.md)
+# Stories
+
+- [Invader](s/invader.md)
+- [Pressure](s/pressure.md)
+- [Nebula 7](s/nebula-7.md)
+- [Thin Red Lines](s/thin-red-lines.md)
+- [Trapped](s/trapped.md)
