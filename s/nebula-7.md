@@ -96,7 +96,7 @@ I stumble out and roam the ship aimlessly.
 
 ---
 
-Eventually, the shock wears out and it’s replaced by sorrow. Flashes of working alongside Bob and his words echo in my head: Dummy. She’s gonna Soar. 99 perhaps more...
+Eventually, the shock wears out and it’s replaced by sorrow. Flashes of working alongside Bob and his words echo in my head: *Dummy. She’s gonna soar. 99 perhaps more...*
 
 Tears.
 
