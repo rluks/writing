@@ -102,7 +102,7 @@ Tears.
 
 Faint recollection of something bad. Have I been to hell?
 
-Someone finds me sobbing and takes me to a bridge.
+Someone finds me sobbing and takes me to the bridge.
 
 ---
 
