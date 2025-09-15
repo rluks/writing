@@ -1,8 +1,6 @@
-***writing***  
-writing  
-*writing*
+# Flash fiction
 
-# Stories
+Generally refers to very short works of under 1,000 words that experiment with form, structure, or narrative expectations.
 
 - [Pressure](s/pressure.md)
 - [Nebula 7](s/nebula-7.md)
