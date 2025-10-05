@@ -1,6 +1,6 @@
 # Invader Interview
 
-*intro*
+*This piece was influenced by the show [Invasion](https://en.wikipedia.org/wiki/Invasion_(2021_TV_series)) and [John's Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)'s short fiction Miniatures where extra-terrestials and other fantastic things are a mundane thing.*
 
 ---
 
