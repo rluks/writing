@@ -16,12 +16,12 @@ C: Uhm…
 C: Yes…?  
 **I: Naturally, DOI doesn't operate in a vacuum. Department of Discovery regularly provides fresh planets suitable for invasions. Mind you, we do, in fact, operate in the vacuum of space. In your resume, you proudly claim to have obtained a Certified Space Invader certification — that's a nice to have certificate! Nevertheless, we are more interested in whether you've completed any vacuum training.**
 C: I was born in the vacuum.  
-**I: Great. In that case it won't pose any trouble for you to pass the training, will it? You should sign up for our Vacuum Sucks™ course as soon as possible. We offer substantial discounts for candidates such as yourself.** 
+**I: Great. In that case it won't pose any trouble for you to pass the training, will it? You should sign up for our Vacuum Sucks™ course as soon as possible. We offer substantial discounts for candidates such as yourself.**  
 C: Training isn't part of onboarding?  
-I: No. *The Organization* doesn't waste resources on something as trivial as onboarding. We only hire excellent candidates who will contribute immediately — It's in our stakeholders' best interest. Here, help yourself to a pamphlet.  
+**I: No. *The Organization* doesn't waste resources on something as trivial as onboarding. We only hire excellent candidates who will contribute immediately — It's in our stakeholders' best interest. Here, help yourself to a pamphlet.**  
 C: Thanks!  
 **I: What do you know about *The Organization*?**  
-C: I see The Organization has great company benefits. It's right here in the pamphlet! 
+C: I see The Organization has great company benefits. It's right here in the pamphlet!  
 **I: We won't discuss benefits at this time, that's what the 17th round of hiring interview is for. Let me just say, from personal experience, the chance to serve in The Organization is the greatest benefit one could ask for. Nobody ever asks or should ask for more. What else do you know about us?**  
 C: The Organization invades planets!  
 **I: Is that all?**  
@@ -29,7 +29,7 @@ C: It's a big business. Many rivals operate in this industry. Planets, moons, ev
 **I: Excuse me, that's almost correct. In any case, we're not here to discuss planet trading industry. Let's talk about you, candidate. Why should we hire you?**  
 C: Uhm… I'm a born invader!  
 **I: What is your biggest weakness?**  
-C: I have to be honest. Earlier, I said I liked moons, but the truth is I'm more of a gas-giant kind of guy. I don't mind a moon, but two? That's too many moons for me. 
+C: I have to be honest. Earlier, I said I liked moons, but the truth is I'm more of a gas-giant kind of guy. I don't mind a moon, but two? That's too many moons for me.  
 **I: Thanks for sharing. Let's move on to your resume. Would you care to explain this gap in your professional experience?**  
 C: I was a young spore and wanted to travel the galaxy. I wanted to expand my—  
 **I: Thanks. We're short on time because of your irrelevant and lengthy description of planet trading. You do know we have only five minutes, don't you?! Let's talk about your experience. Planet Invader Associate position requires 400 years of experience with invading planets. I don't see any such experience on your resume. Would you comment on that?**  
