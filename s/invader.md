@@ -36,10 +36,10 @@ C: I was a young spore and wanted to travel the galaxy. I wanted to expand my-
 C: Yes, I can't find a job to get the experience, and I can't get the experience without a job.   
 I:    
 
+# Poznamky
 
-
-# Poznamky   
 A typical job interview usually follows these steps:   
+
 - Welcome & introductions – brief small talk and overview of the interview agenda.   
 - Company & role overview – the interviewer explains the organization, team, and key responsibilities.   
 - Candidate background – you discuss your résumé, experience, and achievements, focusing on relevance to the role.   
@@ -47,13 +47,18 @@ A typical job interview usually follows these steps:
 - Technical or role‑specific assessment – may involve case studies, coding tests, portfolio review, etc., depending on the position.   
 - Your questions – you ask about the team, culture, expectations, next steps, etc.   
 - Closing – recap, outline the hiring timeline, and thank each other.   
-   
-   
-   
-   
-C: "Yes, I have questions. My fellow hatchling submitted resume with you previous month but haven't heart back from you at all, are they in the process?"   
-I: "I'm only responsible for the current batch of candidates and don't have any information of any other batches. Submitted resumes are processed automatically and any non-compliant are rejected without further action. As I mentioned before, Organization doesn't waste resources it would go against everything our shareholders believe."   
-   
-C: "Did I get the job?"   
-   
-I: "I really need to cut this short. I got a next round of interview in 2 months and need to prepare"   
+
+
+
+
+
+C: Yes, I have questions. My fellow hatchling submitted resume with you previous month but haven't heart back from you at all, are they in the process?   
+**I: I'm only responsible for the current batch of candidates and don't have any information of any other batches. Submitted resumes are processed automatically and any non-compliant are rejected without further action. As I mentioned before, Organization doesn't waste resources it would go against everything our shareholders believe.**   
+
+
+
+C: Did I get the job?   
+
+
+
+**I: I really need to cut this short. I got a next round of interview in 2 months and need to prepare**   
