@@ -4,12 +4,12 @@
 
 ---
 
-**Interviewer: Good morning, candidate 1237412d, and welcome to the next interview round. You've successfully passed previous eleven rounds, and we're finally getting to the meat of it.**  
+**Interviewer: Good morning, candidate 1237412d, and welcome to the next interview round for Planet Invader Associate position. You've successfully passed previous eleven rounds, and we're finally getting to the meat of it.**  
 Candidate: Good morning! I'm so excited to finally meet with somebody in person! I enjoyed talking to all of your colleagues, as well as headhunters and talent agencies, before that. Nevertheless, there were months when I hadn't heard from anyone and almost lost hope!  
 **I: Yes, careful evaluation of each candidate is part of our hiring process. We don't want to make any rushed decisions, do we?**  
 C: I wasn't sure I'd hear back at all. I received a generic rejection message thanking me for my interest and informing me you'd moved forward with another candidate. I didn't lose hope, though, because despite delivered to me, the message was addressed to candidate 1237412b.  
 **I: Well, you are here, 1237412d, aren't you? Are you ready to get started? Would you like sustenance before we begin? Help yourself to the yellow ones over there.**  
-C: Delicious, now I'm ready to get started!  
+C: Delicious — now I'm ready to get started!  
 **I: Excellent. First, let me explain *The Organization*. We're looking looking for someone with a great cultural fit. You would join the Department of Invasion (DOI for short) with focus on rocky planets that have up to two moons. You like moons, don't you, candidate?**  
 C: Uhm…  
 **I: Of course you do, otherwise you wouldn't have passed the fifth round, would you?**  
