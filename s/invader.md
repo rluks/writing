@@ -14,7 +14,7 @@ C: Delicious, now I'm ready to get started!
 C: Uhm…  
 **I: Of course you do, otherwise you wouldn't pass the 5th round, would you?**  
 C: Yes…?  
-**I: Naturally, DOI doesn't operate in the vacuum. Department of Discovery regularly provides fresh planets suitable for invasions. Mind you, we do in fact operate in a vacuum of space. In your resume you proudly present that you have obtained Certified Space Invader certification. That's a nice to have certificate! Nevertheless, we are more interested whether you completed any vacuum training?**  
+**I: Naturally, DOI doesn't operate in the vacuum. Department of Discovery regularly provides fresh planets suitable for invasions. Mind you, we do in fact operate in a vacuum of space. In your resume you proudly present that you have obtained Certified Space Invader certification. That's a nice to have certificate! Nevertheless, we are more interested whether you completed any vacuum training?**
 C: I was born in the vacuum.  
 **I: Great, in that case it won't pose you any troubles to pass the training, would it? You should sign up for our Vacuum Sucks™ course as soon as possible. We offer substantial discounts for candidates such as yourself.** 
 C: Training isn't part of the onboarding?  
@@ -29,7 +29,7 @@ C: It's a big business. There are many rivals in this industry. Planets, moons, 
 **I: Excuse me, that's almost correct. In any case, we're not here to discuss planet trading industry. Now, let's talk about you, candidate. Tell me, why should we hire you?**  
 C: Uhm… I'm a born invader!  
 **I: What is your biggest weakness?**  
-C: "I gotta be honest with you. Earlier, when said I like moons but truth is I'm more of a gas giant kind of guy. I don't mind a moon but two?! That's too much moon for me."  
+C: I gotta be honest with you. Earlier, when said I like moons but truth is I'm more of a gas giant kind of guy. I don't mind a moon but two?! That's too much moon for me. 
 **I: Thanks for sharing. Let's move on to your resume. Would you care to explain this gap in your professional experience?**  
 C: I was a young spore and wanted to travel the galaxy. I wanted to expand my-  
 **I: Thanks, we're getting a bit short on time because of your irrelevant and detailed description of planet trading. You do know that we have only 5 minutes, don't you?! Let's talk about your experience. Planet Invader Associate position requires 400 years of experience with invading planets. I don't see any experience of such sort in your resume. Would you care to comment on that?**  
