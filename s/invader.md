@@ -14,7 +14,7 @@
  C: Uhm…  
  **I: Of course you do, otherwise you wouldn't have passed the fifth round, would you?**  
  C: Yes…?  
- **I: Naturally, DOI doesn't operate in a vacuum. Department of Discovery regularly provides fresh planets suitable for invasions. Mind you, we do, in fact, operate in the vacuum of space. In your resume, you proudly claim to have obtained a Certified Space Invader certification — that's a nice to have certificate! Nevertheless, we are more interested in whether you've completed any vacuum training.**
+ **I: Naturally, DOI doesn't operate in a vacuum. Department of Discovery regularly provides fresh planets suitable for invasions. Mind you, we do, in fact, operate in the vacuum of space. In your resume, you proudly claim to have obtained a Certified Space Invader certification — that's a nice to have certificate! Nevertheless, we are more interested in whether you've completed any vacuum training.**  
  C: I was born in the vacuum.  
  **I: Great. In that case it won't pose any trouble for you to pass the training, will it? You should sign up for our Vacuum Sucks™ course as soon as possible. We offer substantial discounts for candidates such as yourself.**  
  C: Training isn't part of onboarding?  
