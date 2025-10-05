@@ -1,6 +1,6 @@
 # Invader Interview
 
-*This piece was influenced by the show [Invasion](https://en.wikipedia.org/wiki/Invasion_(2021_TV_series)) and [John's Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)'s short fiction Miniatures, where extra-terrestials and other fantastic things are treated as mundane.*
+*This piece was influenced by the show [Invasion](https://en.wikipedia.org/wiki/Invasion_(2021_TV_series)), and [John's Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)'s short fiction, where extra-terrestials and other fantastic things are treated as mundane.*
 
 ---
 
@@ -8,31 +8,31 @@
 Candidate: Good morning! I'm so excited to finally meet with somebody in person! I enjoyed talking to all of your colleagues, as well as headhunters and talent agencies, before that. Nevertheless, there were months when I hadn't heard from anyone and almost lost hope!  
 **I: Yes, careful evaluation of each candidate is part of our hiring process. We don't want to make any rushed decisions, do we?**  
 C: I wasn't sure I'd hear back at all. I received a generic rejection message thanking me for my interest and informing me you'd moved forward with another candidate. I didn't lose hope, though, because despite delivered to me, the message was addressed to candidate R377.  
-**I: Well, you are here, R374, aren't you? Are you ready to get started? Would you like sustenance before we begin? Help yourself to yellow ones over there.**  
+**I: Well, you are here, R374, aren't you? Are you ready to get started? Would you like sustenance before we begin? Help yourself to the yellow ones over there.**  
 C: Delicious, now I'm ready to get started!  
-**I: Excellent, first let me explain The Organization. We're looking looking for someone with a great cultural fit. You would join a Department of Invasion (DOI for short) with focus on rocky planets with up to two moons. You like moons, don't you, candidate?**  
+**I: Excellent. First, let me explain *The Organization*. We're looking looking for someone with a great cultural fit. You would join the Department of Invasion (DOI for short) with focus on rocky planets that have up to two moons. You like moons, don't you, candidate?**  
 C: Uhm…  
-**I: Of course you do, otherwise you wouldn't pass the 5th round, would you?**  
+**I: Of course you do, otherwise you wouldn't have passed the fifth round, would you?**  
 C: Yes…?  
-**I: Naturally, DOI doesn't operate in the vacuum. Department of Discovery regularly provides fresh planets suitable for invasions. Mind you, we do in fact operate in a vacuum of space. In your resume you proudly present that you have obtained Certified Space Invader certification. That's a nice to have certificate! Nevertheless, we are more interested whether you completed any vacuum training?**
+**I: Naturally, DOI doesn't operate in a vacuum. Department of Discovery regularly provides fresh planets suitable for invasions. Mind you, we do, in fact, operate in the vacuum of space. In your resume, you proudly claim to have obtained a Certified Space Invader certification — that's a nice to have certificate! Nevertheless, we are more interested in whether you've completed any vacuum training.**
 C: I was born in the vacuum.  
-**I: Great, in that case it won't pose you any troubles to pass the training, would it? You should sign up for our Vacuum Sucks™ course as soon as possible. We offer substantial discounts for candidates such as yourself.** 
-C: Training isn't part of the onboarding?  
-I: No. Organization doesn't waste resources on something as trivial as onboarding. We only hire excellent candidates that will contribute immediately. It's in our stakeholder's best interest. Here, help yourself to a pamphlet.  
+**I: Great. In that case it won't pose any trouble for you to pass the training, will it? You should sign up for our Vacuum Sucks™ course as soon as possible. We offer substantial discounts for candidates such as yourself.** 
+C: Training isn't part of onboarding?  
+I: No. *The Organization* doesn't waste resources on something as trivial as onboarding. We only hire excellent candidates who will contribute immediately — It's in our stakeholders' best interest. Here, help yourself to a pamphlet.  
 C: Thanks!  
-**I: What do you know about The Organization?**  
-C: I see organization mentions great company benefits. It's right here in the pamphlet!  
-**I: We won't be discussing company benefits at this time. That's what the 17th round of hiring interview is for. Let me just say, from personal experience, the chance to serve in the organization is the greatest benefit one could ask for. Nobody asks or should ask for more. What else do you know about us?**  
-C: Organization invades planets!  
+**I: What do you know about *The Organization*?**  
+C: I see The Organization has great company benefits. It's right here in the pamphlet! 
+**I: We won't discuss benefits at this time, that's what the 17th round of hiring interview is for. Let me just say, from personal experience, the chance to serve in The Organization is the greatest benefit one could ask for. Nobody ever asks or should ask for more. What else do you know about us?**  
+C: The Organization invades planets!  
 **I: Is that all?**  
-C: It's a big business. There are many rivals in this industry. Planets, moons, even entire solar systems are being auctioned away to highest bidders. Owners of planets set the rules and they may choose to rent it or create subdivisions to sell individually. New owners often terraform newly purchased planets to increase it's value. Of course nobody pays any attention to native inhabitants. If organization analysis team determines native inhabitants may pose a risk to a successful acquisition, it dispatches invasion to take care of it. And-  
-**I: Excuse me, that's almost correct. In any case, we're not here to discuss planet trading industry. Now, let's talk about you, candidate. Tell me, why should we hire you?**  
+C: It's a big business. Many rivals operate in this industry. Planets, moons, even entire solar systems are auctioned off to the highest bidders. Planet owners set the rules. They may rent entire worlds or subdivide them for sale. Buyers often terraform planets to increase their market value, and then flip the world for profit. One planet can change many hands. Of course, nobody pays any attention to native inhabitants of the planet. If organization analysis team determines that natives pose a risk, it dispatches an invasion to take care of it. And—  
+**I: Excuse me, that's almost correct. In any case, we're not here to discuss planet trading industry. Let's talk about you, candidate. Why should we hire you?**  
 C: Uhm… I'm a born invader!  
 **I: What is your biggest weakness?**  
-C: I gotta be honest with you. Earlier, when said I like moons but truth is I'm more of a gas giant kind of guy. I don't mind a moon but two?! That's too much moon for me. 
+C: I have to be honest. Earlier, I said I liked moons, but the truth is I'm more of a gas-giant kind of guy. I don't mind a moon, but two? That's too many moons for me. 
 **I: Thanks for sharing. Let's move on to your resume. Would you care to explain this gap in your professional experience?**  
-C: I was a young spore and wanted to travel the galaxy. I wanted to expand my-  
-**I: Thanks, we're getting a bit short on time because of your irrelevant and detailed description of planet trading. You do know that we have only 5 minutes, don't you?! Let's talk about your experience. Planet Invader Associate position requires 400 years of experience with invading planets. I don't see any experience of such sort in your resume. Would you care to comment on that?**  
+C: I was a young spore and wanted to travel the galaxy. I wanted to expand my—  
+**I: Thanks. We're short on time because of your irrelevant and lengthy description of planet trading. You do know we have only five minutes, don't you?! Let's talk about your experience. Planet Invader Associate position requires 400 years of experience with invading planets. I don't see any such experience on your resume. Would you comment on that?**  
 C: Yes, I can't find a job to get the experience, and I can't get the experience without a job.  
 I:    
 
