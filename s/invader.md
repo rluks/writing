@@ -4,11 +4,11 @@
 
 ---
 
-**Interviewer: Good morning, candidate R374, and welcome to the next interview round. You've successfully passed previous eleven rounds, and we're finally getting to the meat of it.**  
+**Interviewer: Good morning, candidate 1237412d, and welcome to the next interview round. You've successfully passed previous eleven rounds, and we're finally getting to the meat of it.**  
 Candidate: Good morning! I'm so excited to finally meet with somebody in person! I enjoyed talking to all of your colleagues, as well as headhunters and talent agencies, before that. Nevertheless, there were months when I hadn't heard from anyone and almost lost hope!  
 **I: Yes, careful evaluation of each candidate is part of our hiring process. We don't want to make any rushed decisions, do we?**  
-C: I wasn't sure I'd hear back at all. I received a generic rejection message thanking me for my interest and informing me you'd moved forward with another candidate. I didn't lose hope, though, because despite delivered to me, the message was addressed to candidate R377.  
-**I: Well, you are here, R374, aren't you? Are you ready to get started? Would you like sustenance before we begin? Help yourself to the yellow ones over there.**  
+C: I wasn't sure I'd hear back at all. I received a generic rejection message thanking me for my interest and informing me you'd moved forward with another candidate. I didn't lose hope, though, because despite delivered to me, the message was addressed to candidate 1237412b.  
+**I: Well, you are here, 1237412d, aren't you? Are you ready to get started? Would you like sustenance before we begin? Help yourself to the yellow ones over there.**  
 C: Delicious, now I'm ready to get started!  
 **I: Excellent. First, let me explain *The Organization*. We're looking looking for someone with a great cultural fit. You would join the Department of Invasion (DOI for short) with focus on rocky planets that have up to two moons. You like moons, don't you, candidate?**  
 C: Uhm…  
@@ -35,5 +35,4 @@ C: I was a young spore and wanted to travel the galaxy. I wanted to expand my—
 **I: Thanks. We're short on time because of your irrelevant and lengthy description of planet trading. You do know we have only five minutes, don't you?! Let's talk about your experience. Planet Invader Associate position requires 400 years of experience with invading planets. I don't see any such experience on your resume. Would you comment on that?**  
 C: Yes, I can't find a job to get the experience, and I can't get the experience without a job.  
 I:    
-
 
