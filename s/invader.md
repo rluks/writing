@@ -16,7 +16,7 @@ C: Uhm…
 C: Yes…?  
 **I: Naturally, DOI doesn't operate in the vacuum. Department of Discovery regularly provides fresh planets suitable for invasions. Mind you, we do in fact operate in a vacuum of space. In your resume you proudly present that you have obtained Certified Space Invader certification. That's a nice to have certificate! Nevertheless, we are more interested whether you completed any vacuum training?**  
 C: I was born in the vacuum.  
-**I: Great, in that case it won't pose you any troubles to pass the training, would it? You should sign up for our Vacuum Sucks™ course as soon as possible. We offer substantial discounts for candidates such as yourself.**  
+**I: Great, in that case it won't pose you any troubles to pass the training, would it? You should sign up for our Vacuum Sucks™ course as soon as possible. We offer substantial discounts for candidates such as yourself.** 
 C: Training isn't part of the onboarding?  
 I: No. Organization doesn't waste resources on something as trivial as onboarding. We only hire excellent candidates that will contribute immediately. It's in our stakeholder's best interest. Here, help yourself to a pamphlet.  
 C: Thanks!  
