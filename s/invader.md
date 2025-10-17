@@ -1,8 +1,10 @@
 # Invader Interview
 
-*This piece was influenced by the show [Invasion](https://en.wikipedia.org/wiki/Invasion_(2021_TV_series)), and [John's Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)'s short fiction, where extra-terrestials and other fantastic things are treated as mundane.*
+*This piece mocking silly hiring practices was influenced by the show [Invasion](https://en.wikipedia.org/wiki/Invasion_(2021_TV_series)), and [John's Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)'s short fiction, where extra-terrestials and other fantastic things are treated as mundane.*
 
 ---
+
+<div style="line-height: 1.6;">
 
  **Interviewer: Good morning, candidate 1237412d, and welcome to the next interview round for Planet Invader Associate position. You've successfully passed all previous eleven rounds, and we're finally getting to the meat of it.**  
  Candidate: Good morning! I'm so excited to finally meet with somebody in person! I enjoyed talking to all of your colleagues, as well as headhunters and talent agencies, before that. Nevertheless, there were months when I hadn't heard from anyone and almost lost hope!  
@@ -36,3 +38,4 @@
  C: Yes, I can't find a job to get the experience, and I can't get the experience without a job.  
  I:    
 
+</div>
