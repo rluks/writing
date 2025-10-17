@@ -1,6 +1,6 @@
 # Invader Interview
 
-*This piece mocking hiring practices was influenced by the show [Invasion](https://en.wikipedia.org/wiki/Invasion_(2021_TV_series)), and [John's Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)'s short fiction, where extra-terrestials and other fantastic things are treated as mundane.*
+*This piece is mocking hiring practices and was inspired by the TV show [Invasion](https://en.wikipedia.org/wiki/Invasion_(2021_TV_series)), and [John's Scalzi](https://en.wikipedia.org/wiki/John_Scalzi)'s short fiction stories, where extra-terrestials and other fantastic things are treated as mundane.*
 
 ---
 
