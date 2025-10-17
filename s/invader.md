@@ -4,8 +4,6 @@
 
 ---
 
-<div style="line-height: 1.6;">
-
  **Interviewer: Good morning, candidate 1237412d, and welcome to the next interview round for Planet Invader Associate position. You've successfully passed all previous eleven rounds, and we're finally getting to the meat of it.**  
  Candidate: Good morning! I'm so excited to finally meet with somebody in person! I enjoyed talking to all of your colleagues, as well as headhunters and talent agencies, before that. Nevertheless, there were months when I hadn't heard from anyone and almost lost hope!  
  **I: Yes, careful evaluation of each candidate is part of our hiring process. We don't want to make any rushed decisions, do we?**  
@@ -37,5 +35,3 @@
  **I: Thanks. We're short on time because of your irrelevant and lengthy description of planet trading. You *do* know we have only five minutes, don't you?! Let's talk about your experience. Planet Invader Associate position requires 400 years of experience with invading planets. I don't see any such experience on your resume. Would you comment on that?**  
  C: Yes, I can't find a job to get the experience, and I can't get the experience without a job.  
  I:    
-
-</div>
