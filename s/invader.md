@@ -10,13 +10,13 @@ Candidate: Good morning! I'm so excited to finally meet with somebody in person!
 
 **I: Yes, careful evaluation of each candidate is part of our hiring process. We don't want to make any rushed decisions, do we?**  
 
-C: I wasn't sure I'd hear back at all. I received a generic rejection message thanking me for my interest and informing me you'd moved forward with another candidate. I didn't lose hope, though, because despite delivered to me, the message was addressed to candidate 1237412b.  
+C: I wasn't sure I'd hear back at all. I received a generic rejection message thanking me for my interest and informing me you'd moved forward with another candidate. The message was addressed to candidate 1237412b, not me, so I didn't lose hope!  
 
 **I: Well, you are here, 1237412d, aren't you? Are you ready to get started? Would you like sustenance before we begin? Help yourself to the yellow ones over there.**  
 
 C: Delicious — now I'm ready to get started!  
 
-**I: Excellent. First, let me explain *The Organization*. We're looking looking for someone with a great cultural fit. You would join the Department of Invasion (DOI for short) with focus on rocky planets that have up to two moons. You like moons, don't you, candidate?**  
+**I: Excellent. First, let me explain *The Organization*. We're looking for someone with a great cultural fit. You would join the Department of Invasion (DOI for short) with focus on rocky planets that have up to two moons. You like moons, don't you, candidate?**  
 
 C: Uhm…  
 
