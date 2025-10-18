@@ -62,6 +62,16 @@ Candidate: I was a young spore and wanted to travel the galaxy. I wanted to expa
 
 **Interviewer: Thanks. We're short on time because of your irrelevant and lengthy description of planet trading. You *do* know we have only five minutes, don't you?! Let's talk about your experience. Planet Invader Associate position requires 400 years of experience with invading planets. I don't see any such experience on your resume. Would you comment on that?**
 
-Candidate: Yes, I can't find a job to get the experience, and I can't get the experience without a job.
+Candidate: I'd love to get 400 years of experience but nobody will hire me to get it. It's a vicious cycle! Hey, I was wondering about what kind of compensation can I expect for the position like this?
 
-**Interviewer:**
+**Interviewer: You read the job description before you applied, did you? It's all there! Regardless, compensation isn't on the topic today.**
+
+Candidate: Excuse me, you say it's there but I have it right there in front of me and I can't see it anywhere. All I could find is "a competetive salary".
+
+**Interviewer: As I said, not on the topic today... Let's move on. Please answer the following question to the best of your abilites and speak aloud to walk us through your though process. The question: How many piano tuners are there in space?**
+
+Candidate: Oh jeez, that's a tricky question! Give me a moment.
+
+**Interviewer: Sure, take your time. (Pause) Are you ready to answer?**
+
+Candidate: Zero — in space no one can hear you play.
