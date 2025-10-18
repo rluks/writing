@@ -54,9 +54,9 @@ Candidate: Uhm… I'm a born invader!
 
 **Interviewer: What is your biggest weakness?**
 
-Candidate: I have to be honest. Earlier, I said I liked moons, but the truth is I'm more of a gas-giant kind of guy. I don't mind a moon, but two? That's too many moons for me.
+Candidate: I have to be honest. Earlier, I said I liked moons, but the truth is I'm more of a gas-giant kind of guy. I don't mind a moon, but two? That's too many moons for me. Anyway, I have a few questions too—
 
-**Interviewer: Thanks for sharing. Let's move on to your resume. Would you care to explain this gap in your professional experience?**
+**Interviewer: We'll get to your questions in later rounds. Let's talk about your resume. Would you care to explain this gap in your professional experience?**
 
 Candidate: I was a young spore and wanted to travel the galaxy. I wanted to expand my—
 
@@ -68,10 +68,20 @@ Candidate: I'd love to get 400 years of experience but nobody will hire me to ge
 
 Candidate: Excuse me, you say it's there but I have it right there in front of me and I can't see it anywhere. All I could find is "a competetive salary".
 
-**Interviewer: As I said, not on the topic today... Let's move on. Please answer the following question to the best of your abilites and speak aloud to walk us through your though process. The question: How many piano tuners are there in space?**
+**Interviewer: As I said, not on the topic today... Let's move on. Please answer the following question to the best of your abilites: How many piano tuners are there in space?**
 
 Candidate: Oh jeez, that's a tricky question! Give me a moment.
 
 **Interviewer: Sure, take your time. (Pause) Are you ready to answer?**
 
 Candidate: Zero — in space no one can hear you play.
+
+**Interviewer: Thank you, 1237—**
+
+Candidate: Hey, my fellow hatchling wanted me to ask you: they submitted resume with you but haven't heard back.
+
+**Interviewer: Submitted resumes are processed automatically and any non-compliant ones are rejected without further action. As I mentioned, *Organization* doesn't waste resources. We have a fiduciary responsibility to our shareholders.**
+
+Candidate: What does it take to have a compliant resume?
+
+**Interviewer: Only the lucky candidates get a chance, that's all I can tell you.**
